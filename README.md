@@ -1,4 +1,4 @@
-# Automated Tutoring Applications with Selenium
+# Automated Tutoring Applications with Selenium (김과외 자동 지원 코드)
 
 This Python project automates the process of applying for tutoring jobs on a specific website using Selenium. It navigates through the site, handles alerts, logs in with user credentials, and automatically applies to suitable tutoring jobs based on predefined criteria.
 
