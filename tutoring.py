@@ -136,12 +136,6 @@ for i in range(2, 50):
     except:
         pass
 
-# Execute the shell script using subprocess
-# try:
-#     subprocess.run(["/Users/tristanshin/Desktop/pythonProject/shutdown_script.sh"], check=True)
-# except subprocess.CalledProcessError as e:
-#     print("Error:", e)
-
 
 
 
